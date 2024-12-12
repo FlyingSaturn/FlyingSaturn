@@ -2,8 +2,10 @@
 
 - 🔭 I’m currently working on a lot of stuff.
 - 🌱 I’m currently learning Python. It's an extremely powerful language.
-- 📫 How to reach me: Just have a chat with me @ u/lonelyroom-eklaghor
+- 📫 How to reach me: Just have a chat with me @ giantjupiter on Discord
 - 😄 Pronouns: He/Him
+
+(I'm not that good with intros btw) 
 <!--
 **FlyingSaturn/FlyingSaturn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
