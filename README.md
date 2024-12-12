@@ -1,13 +1,9 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on... in the oblivion obviously, since I'm a student.
-- 🌱 I’m currently learning... JS and Python. Will try to learn Haskell sometime in the future.
-- 👯 I’m looking to collaborate on
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on a lot of stuff.
+- 🌱 I’m currently learning Python. It's an extremely powerful language.
+- 📫 How to reach me: Just have a chat with me @ u/lonelyroom-eklaghor
+- 😄 Pronouns: He/Him
 <!--
 **FlyingSaturn/FlyingSaturn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
