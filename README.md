@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on a lot of stuff.
 - 🌱 I’m currently learning Python & TypeScript
-- - 📫 How to reach me: Just have a chat with me @ giantjupiter on Discord
+- 📫 How to reach me: Just have a chat with me @giantjupiter on Discord
 - 😄 Pronouns: He/Him
 
 (I'm not that good with intros btw) 
