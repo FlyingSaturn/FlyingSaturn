@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 - 🔭 I’m currently working on a lot of stuff.
-- 🌱 I’m currently learning Python. It's an extremely powerful language.
-- 📫 How to reach me: Just have a chat with me @ giantjupiter on Discord
+- 🌱 I’m currently learning Python & TypeScript
+- - 📫 How to reach me: Just have a chat with me @ giantjupiter on Discord
 - 😄 Pronouns: He/Him
 
 (I'm not that good with intros btw) 
