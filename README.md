@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on refactoring and debugging my code on yawcalc-web.
+- 🔭 I’m currently working on refactoring and debugging my code in yawcalc-web.
 - 🌱 I’m currently learning Python & TypeScript
 - 📫 How to reach me: Just have a chat with me @giantjupiter on Discord
 - 😄 Pronouns: He/Him
